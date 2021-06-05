@@ -1,6 +1,6 @@
-# ArkScript macros - DRAFT
+# ArkScript macros
 
-*feel free to provide examples if you think something can be unclear*
+*Last modification on the 06/06/2021 at 01:50*
 
 ## Definitions
 
@@ -16,7 +16,7 @@ _preprocessor_: system which handles the macro application process
 
 ## Precisions
 
-*remove if empty, not necessary in the draft*
+Macros are a useful tool to manipulate and generate code at compile time. One could create a DSL (domain specific language) in ArkScript using only macros.
 
 ## Elimination of macros
 
@@ -104,7 +104,5 @@ are valid.
 1. macros can be recursives (call themselves, but you should take care yourself of the recursion limit)
 
 # Authors
-
-(add your name here)
 
 * [Alexandre Plateau](https://github.com/SuperFola)

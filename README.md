@@ -20,6 +20,7 @@ Rejected RFC are going in the `rejected/` folder for reference.
 * [Tests organization](002-tests-organization.md) by [Alexandre Plateau](https://github.com/SuperFola)
 * [Naming convention](003-naming-convention.md) by [Alexandre Plateau](https://github.com/SuperFola) and [Pierre Pharel](https://github.com/PierrePharel)
 * [Module error handling](004-module-error-handling.md) by [Alexandre Plateau](https://github.com/SuperFola) and [Pierre Pharel](https://github.com/PierrePharel)
+* [Macros](005-macros.md) by [Alexandre Plateau](https://github.com/SuperFola)
 
 ## Rejected
 
