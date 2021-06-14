@@ -1,6 +1,6 @@
-# Modules Architecture - DRAFT
+# Modules Architecture
 
-*Last modification on the 14/06/2021 at <>*
+*Last modification on the 15/06/2021*
 
 ## Definitions
 
@@ -26,6 +26,7 @@ module
 |___ README.md
 ```
 
+The src shall contain all external headers, instead of having an `include/` folder
 
 # Authors
 
