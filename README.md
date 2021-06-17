@@ -14,13 +14,19 @@ Rejected RFC are going in the `rejected/` folder for reference.
 
 * [ArkScript macros](drafts/005-macros.md) by [Alexandre Plateau](https://github.com/SuperFola)
 
-## Published
+## Published RFC
 
-* [Coding guidelines](001-coding-guidelines.md) by [Alexandre Plateau](https://github.com/SuperFola)
-* [Tests organization](002-tests-organization.md) by [Alexandre Plateau](https://github.com/SuperFola)
-* [Naming convention](003-naming-convention.md) by [Alexandre Plateau](https://github.com/SuperFola) and [Pierre Pharel](https://github.com/PierrePharel)
-* [Module error handling](004-module-error-handling.md) by [Alexandre Plateau](https://github.com/SuperFola) and [Pierre Pharel](https://github.com/PierrePharel)
-* [Macros](005-macros.md) by [Alexandre Plateau](https://github.com/SuperFola)
+<details>
+  <summary>Click here</summary>
+
+  1. [Coding guidelines](001-coding-guidelines.md) by [Alexandre Plateau](https://github.com/SuperFola)
+  1. [Tests organization](002-tests-organization.md) by [Alexandre Plateau](https://github.com/SuperFola)
+  1. [Naming convention](003-naming-convention.md) by [Alexandre Plateau](https://github.com/SuperFola) and [Pierre Pharel](https://github.com/PierrePharel)
+  1. [Module error handling](004-module-error-handling.md) by [Alexandre Plateau](https://github.com/SuperFola) and [Pierre Pharel](https://github.com/PierrePharel)
+  1. [Macros](005-macros.md) by [Alexandre Plateau](https://github.com/SuperFola)
+  1. [Modules architecture](006-modules-architecture.md) by [Fabien Zoccola](https://github.com/fabien-zoccola)
+
+</details>
 
 ## Rejected
 
